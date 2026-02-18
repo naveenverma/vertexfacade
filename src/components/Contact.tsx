@@ -50,7 +50,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-white">Office Location</h3>
-                  <p className="text-gray-400">SCO 123, Sector 17, Chandigarh 160017</p>
+                  <p className="text-gray-400">Affinity Greens, Chandigarh</p>
                 </div>
               </div>
 
@@ -62,8 +62,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-white">Phone</h3>
-                  <a href="tel:+919876543210" className="text-gray-400 hover:text-accent transition-colors">
-                    +91-98765-43210
+                  <a href="tel:+919501245445" className="text-gray-400 hover:text-accent transition-colors">
+                    +91-95012-45445
                   </a>
                 </div>
               </div>

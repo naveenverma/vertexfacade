@@ -71,11 +71,11 @@ const jsonLd = {
       "@id": "https://vertexfacade.com/#localbusiness",
       name: "Vertex Facade Services",
       url: "https://vertexfacade.com",
-      telephone: "+91-9876543210",
+      telephone: "+91-9501245445",
       email: "contact@vertexfacade.com",
       address: {
         "@type": "PostalAddress",
-        streetAddress: "SCO 123, Sector 17",
+        streetAddress: "Affinity Greens",
         addressLocality: "Chandigarh",
         addressRegion: "Chandigarh",
         postalCode: "160017",
