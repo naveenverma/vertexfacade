@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1d23"/>
+  <rect x="50" y="50" width="1100" height="530" rx="20" fill="#252a33"/>
+  
+  <!-- Drone Icon -->
+  <g transform="translate(100, 200)">
+    <ellipse cx="100" cy="80" rx="60" ry="20" fill="#ff6b35" opacity="0.3"/>
+    <rect x="70" y="40" width="60" height="30" rx="6" fill="#ff6b35"/>
+    <line x1="40" y1="55" x2="10" y2="40" stroke="#ff6b35" stroke-width="4"/>
+    <line x1="160" y1="55" x2="190" y2="40" stroke="#ff6b35" stroke-width="4"/>
+    <circle cx="10" cy="40" r="20" fill="none" stroke="#ff6b35" stroke-width="3" stroke-dasharray="6 3"/>
+    <circle cx="190" cy="40" r="20" fill="none" stroke="#ff6b35" stroke-width="3" stroke-dasharray="6 3"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="350" y="250" font-family="Inter, system-ui, sans-serif" font-size="48" font-weight="bold" fill="white">Vertex Facade Services</text>
+  <text x="350" y="320" font-family="Inter, system-ui, sans-serif" font-size="28" fill="#9ca3af">Drone Building Cleaning &amp; Painting</text>
+  <text x="350" y="370" font-family="Inter, system-ui, sans-serif" font-size="22" fill="#ff6b35">Chandigarh " Punjab " Haryana " Delhi NCR</text>
+  
+  <!-- Stats -->
+  <g transform="translate(350, 420)">
+    <text font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="bold" fill="#ff6b35">80%</text>
+    <text y="30" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#6b7280">Cost Savings</text>
+  </g>
+  <g transform="translate(550, 420)">
+    <text font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="bold" fill="#ff6b35">4×</text>
+    <text y="30" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#6b7280">Faster</text>
+  </g>
+  <g transform="translate(700, 420)">
+    <text font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="bold" fill="#ff6b35">100%</text>
+    <text y="30" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#6b7280">DGCA Compliant</text>
+  </g>
+</svg>
